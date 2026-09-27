@@ -1,0 +1,13 @@
+# PlatformIO Build Directory
+.pio/
+.cache/
+
+# Local build commands (contains absolute paths)
+compile_commands.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# If you don't want to commit the packed file you made for me
+repomix-output.md
